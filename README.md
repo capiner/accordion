@@ -1,2 +1,1 @@
-# accordion
-Capiner Accordion
+# Capiner Accordion
